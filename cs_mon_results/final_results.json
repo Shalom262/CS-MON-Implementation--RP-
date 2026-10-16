@@ -1,0 +1,13 @@
+{
+  "test_metrics": {
+    "accuracy": 0.8564102564102564,
+    "macro_f1": 0.85829307568438,
+    "ordinal_mae": 0.14358974358974358,
+    "qwk": 0.888893410931586,
+    "severe_error_rate": 0.0,
+    "adjacent_error_rate": 0.14358974358974358
+  },
+  "ablation_results": [],
+  "results_directory": "D:\\SLIIT (4th Year)\\RP\\Dataset\\cs_mon_results",
+  "screening_warning": "Visual screening does not chemically identify a dye."
+}
